@@ -1,6 +1,6 @@
 # Jacob Webber
-# Computer Architecture Assignment 3
 # Guessing Game
+
 .data #storing data
 	startmsg: .asciiz "I am thinking of a random number between 1 and 100\n\n"
 	guessmsg: .asciiz "Enter your guess\n"
